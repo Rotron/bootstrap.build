@@ -56,3 +56,6 @@ Browse to `127.0.0.1`
 ## Contributing
 
 All contributions are welcome! ❤️
+
+## How to fix “Error: Node Sass does not yet support your current environment: OS X 64-bit with Unsupported runtime (57)”
+npm rebuild node-sass
